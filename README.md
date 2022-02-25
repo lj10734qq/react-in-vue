@@ -1,5 +1,6 @@
 # react-in-vue
 
+this is a demo for Vuera package. it's showed how to display a react component in vue environments.
 ## Project setup
 ```
 npm install
@@ -20,5 +21,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
